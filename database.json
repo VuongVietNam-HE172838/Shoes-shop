@@ -1,0 +1,922 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Nike React Infinity Run Flyknit",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": 1,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-665455a5-45de-40fb-945f-c1852b82400d/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "2",
+      "title": "Nike React Miler",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": 1,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-5cc7de3b-2afc-49c2-a1e4-0508997d09e6/react-miler-mens-running-shoe-DgF6nr.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "3",
+      "title": "Nike Air Zoom Pegasus 37",
+      "price": 55.99,
+      "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": 1,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-33b0a0a5-c171-46cc-ad20-04a768703e47/air-zoom-pegasus-37-womens-running-shoe-Jl0bDf.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "4",
+      "title": "Nike Joyride Run Flyknit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": 1,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/99a7d3cb-e40c-4474-91c2-0f2e6d231fd2/joyride-run-flyknit-womens-running-shoe-HcfnJd.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "5",
+      "title": "Nike Mercurial Vapor 13 Elite FG",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": 2,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9dda6202-e2ff-4711-9a09-0fcb7d90c164/mercurial-vapor-13-elite-fg-firm-ground-soccer-cleat-14MsF2.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "6",
+      "title": "Nike Phantom Vision Elite Dynamic Fit FG",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days. Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": 2,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/s1amp7uosrn0nqpsxeue/phantom-vision-elite-dynamic-fit-fg-firm-ground-soccer-cleat-19Kv1V.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "7",
+      "title": "Nike Phantom Venom Academy FG",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": 2,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/whegph8z9ornhxklc8rp/phantom-venom-academy-fg-firm-ground-soccer-cleat-6JVNll.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "8",
+      "title": "Nike Mercurial Vapor 13 Elite Tech Craft FG",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": 2,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/vhbwnkor8sxt8qtecgia/mercurial-vapor-13-elite-tech-craft-fg-firm-ground-soccer-cleat-l38JPj.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "9",
+      "title": "Nike Mercurial Superfly 7 Pro MDS FG",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": 3,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-a52a8aec-22dc-4982-961b-75c5f4c72805/mercurial-superfly-7-pro-mds-fg-firm-ground-soccer-cleat-mhcpdN.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "10",
+      "title": "Nike Air Force 1",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": 3,
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/178b2a46-3ee4-492b-882e-f71efdd53a36/air-force-1-big-kids-shoe-2zqp8D.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "11",
+      "title": "Nike Air Max 90",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": 3,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8439f823-86cf-4086-81d2-4f9ff9a66866/air-max-90-big-kids-shoe-1wzwJM.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "12",
+      "title": "Nike Air Max 90 LTR",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": 1,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-620aeb37-1b28-44b0-9b14-5572f8cbc948/air-max-90-ltr-big-kids-shoe-hdNLQ5.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "13",
+      "title": "Nike Joyride Dual Run",
+      "price": 599,
+      "description": "21.5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16.7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": 1,
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/33888130-0320-41a1-ba53-a026decd8aa2/joyride-dual-run-big-kids-running-shoe-1HDJF8.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "14",
+      "title": "Nike Renew Run",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, hjhgjh",
+      "category": 4,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-73e54c0b-11a6-478b-9f90-bd97fcde872d/renew-run-big-kids-running-shoe-5Bpz93.jpg",
+      "quantity": 30
+    }
+  ],
+  "categories": [
+    {
+      "cateid": 1,
+      "name": "Runing",
+      "id": "9922"
+    },
+    {
+      "cateid": 2,
+      "name": "Football",
+      "id": "fd5b"
+    },
+    {
+      "cateid": 3,
+      "name": "Casual",
+      "id": "664e"
+    },
+    {
+      "cateid": 4,
+      "name": "Formal",
+      "id": "f8b4"
+    }
+  ],
+  "carts": [
+    {
+      "id": "70c9",
+      "userId": 2,
+      "totalProducts": []
+    },
+    {
+      "userId": 3,
+      "totalProducts": [],
+      "id": "f7be"
+    }
+  ],
+  "users": [
+    {
+      "address": {
+        "city": "kilcoole",
+        "street": "new road"
+      },
+      "id": "1",
+      "email": "john@gmail.com",
+      "username": "johnd",
+      "password": "m38rmF",
+      "name": {
+        "firstname": "john",
+        "lastname": "doe"
+      },
+      "phone": "1-570-236-7033",
+      "role": "USER"
+    },
+    {
+      "address": {
+        "city": "kilcoole",
+        "street": "Lovers Ln",
+        "state": "Ohio",
+        "zip": "456789"
+      },
+      "id": "2",
+      "email": "morrison@gmail.com",
+      "username": "mor_2314",
+      "password": "83r5^_",
+      "name": {
+        "firstname": "david",
+        "lastname": "morrison"
+      },
+      "phone": "1-570-236-7033",
+      "role": "USER"
+    },
+    {
+      "address": {
+        "city": "Cullmanh canh hẹ",
+        "street": "Frances Ct"
+      },
+      "id": "3",
+      "email": "kevin@gmail.com",
+      "username": "kevinryan",
+      "password": "kev02937",
+      "name": {
+        "firstname": "kevin",
+        "lastname": "ryan"
+      },
+      "phone": "1-567-094-1345",
+      "role": "ADMIN"
+    },
+    {
+      "address": {
+        "city": "San Antonio",
+        "street": "Hunters Creek Dr"
+      },
+      "id": "4",
+      "email": "don@gmail.com",
+      "username": "donero",
+      "password": "ewedon",
+      "name": {
+        "firstname": "don",
+        "lastname": "romer"
+      },
+      "phone": "1-765-789-6734",
+      "role": "USER"
+    },
+    {
+      "id": "8369",
+      "address": {
+        "city": "",
+        "street": ""
+      },
+      "email": "Namvvhe172838@fpt.edu.vn",
+      "username": "NamVuong123",
+      "password": "namvuong123",
+      "name": {
+        "firstname": "Vuong",
+        "lastname": "Nam"
+      },
+      "phone": "0123456789",
+      "role": "USER"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1721720417473",
+      "productId": "7",
+      "ratings": [],
+      "comments": [
+        {
+          "id": "1721720417430",
+          "text": "kl\n",
+          "userId": "2",
+          "username": "mor_2314",
+          "date": "7/23/2024"
+        }
+      ]
+    },
+    {
+      "id": "1722396294734",
+      "productId": "6",
+      "ratings": [
+        {
+          "userId": "3",
+          "rate": 4
+        }
+      ],
+      "comments": []
+    },
+    {
+      "id": "1730685018468",
+      "productId": "2",
+      "ratings": [
+        {
+          "userId": "1",
+          "rate": 4
+        }
+      ],
+      "comments": [
+        {
+          "id": "1730685018437",
+          "text": "good",
+          "userId": "1",
+          "username": "johnd",
+          "date": "11/4/2024"
+        }
+      ]
+    },
+    {
+      "id": "1731037934135",
+      "productId": "1",
+      "ratings": [
+        {
+          "userId": "8369",
+          "rate": 5
+        }
+      ],
+      "comments": [
+        {
+          "id": "1731037934118",
+          "text": "meo",
+          "userId": "8369",
+          "username": "NamVuong123",
+          "date": "11/8/2024"
+        },
+        {
+          "id": "1731047430678",
+          "text": "1231231",
+          "userId": "8369",
+          "username": "NamVuong123",
+          "date": "11/8/2024"
+        }
+      ]
+    }
+  ],
+  "detailOrders": [
+    {
+      "id": "23095808",
+      "OrderDate": "2024-10-22 09:58:08",
+      "Amount": 503520,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A23095808",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "1",
+        "name": {
+          "firstname": "john",
+          "lastname": "doe"
+        },
+        "email": "john@gmail.com",
+        "phone": "1-570-236-7033",
+        "address": {
+          "city": "kilcoole",
+          "street": "new road"
+        }
+      },
+      "products": [
+        {
+          "id": "7",
+          "title": "White Gold Plated Princess",
+          "price": 9.99,
+          "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+          "category": 2,
+          "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "userQuantity": 2
+        }
+      ],
+      "status": false
+    },
+    {
+      "id": "23095934",
+      "OrderDate": "2024-10-22 09:59:34",
+      "Amount": 767280,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A23095934",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "4",
+        "name": {
+          "firstname": "don",
+          "lastname": "romer"
+        },
+        "email": "don@gmail.com",
+        "phone": "1-765-789-6734",
+        "address": {
+          "city": "San Antonio",
+          "street": "Hunters Creek Dr"
+        }
+      },
+      "products": [
+        {
+          "id": "7",
+          "title": "White Gold Plated Princess",
+          "price": 9.99,
+          "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+          "category": 2,
+          "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "userQuantity": 2
+        },
+        {
+          "id": "8",
+          "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+          "price": 10.99,
+          "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+          "category": 2,
+          "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+          "quantity": 30,
+          "userQuantity": 1
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "23100012",
+      "OrderDate": "2024-10-25 10:00:12",
+      "Amount": 8688000,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A23100012",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "4",
+        "name": {
+          "firstname": "don",
+          "lastname": "romer"
+        },
+        "email": "don@gmail.com",
+        "phone": "1-765-789-6734",
+        "address": {
+          "city": "San Antonio",
+          "street": "Hunters Creek Dr"
+        }
+      },
+      "products": [
+        {
+          "id": "6",
+          "title": "Solid Gold Petite Micropave",
+          "price": 168,
+          "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days. Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+          "category": 2,
+          "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+          "quantity": 30,
+          "userQuantity": 2
+        }
+      ],
+      "status": false
+    },
+    {
+      "id": "23143802",
+      "OrderDate": "2024-10-26 14:38:02",
+      "Amount": 1055040,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A23143802",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "2",
+        "name": {
+          "firstname": "david",
+          "lastname": "morrison"
+        },
+        "email": "morrison@gmail.com",
+        "phone": "1-570-236-7033",
+        "address": {
+          "city": "kilcoole",
+          "street": "Lovers Ln"
+        }
+      },
+      "products": [
+        {
+          "id": "7",
+          "title": "White Gold Plated Princess",
+          "price": 9.99,
+          "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+          "category": 2,
+          "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "quantity": 30,
+          "userQuantity": 2
+        },
+        {
+          "id": "8",
+          "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+          "price": 10.99,
+          "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+          "category": 2,
+          "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+          "quantity": 30,
+          "userQuantity": 2
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "23143807",
+      "OrderDate": "2024-10-27 14:38:07",
+      "Amount": 1055040,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A23143807",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "2",
+        "name": {
+          "firstname": "david",
+          "lastname": "morrison"
+        },
+        "email": "morrison@gmail.com",
+        "phone": "1-570-236-7033",
+        "address": {
+          "city": "kilcoole",
+          "street": "Lovers Ln"
+        }
+      },
+      "products": [
+        {
+          "id": "7",
+          "title": "White Gold Plated Princess",
+          "price": 9.99,
+          "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+          "category": 2,
+          "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "quantity": 30,
+          "userQuantity": 2
+        },
+        {
+          "id": "8",
+          "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+          "price": 10.99,
+          "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+          "category": 2,
+          "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+          "quantity": 30,
+          "userQuantity": 2
+        }
+      ],
+      "status": false
+    },
+    {
+      "id": "23143844",
+      "OrderDate": "2024-10-23 14:38:44",
+      "Amount": 767280,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A23143844",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "2",
+        "name": {
+          "firstname": "david",
+          "lastname": "morrison"
+        },
+        "email": "morrison@gmail.com",
+        "phone": "1-570-236-7033",
+        "address": {
+          "city": "kilcoole",
+          "street": "Lovers Ln"
+        }
+      },
+      "products": [
+        {
+          "id": "7",
+          "title": "White Gold Plated Princess",
+          "price": 9.99,
+          "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+          "category": 2,
+          "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "userQuantity": 2
+        },
+        {
+          "id": "8",
+          "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+          "price": 10.99,
+          "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+          "category": 2,
+          "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+          "userQuantity": 1
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "24094612",
+      "OrderDate": "2024-10-24 09:46:12",
+      "Amount": 8688000,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A24094612",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "4",
+        "name": {
+          "firstname": "don",
+          "lastname": "romer"
+        },
+        "email": "don@gmail.com",
+        "phone": "1-765-789-6734",
+        "address": {
+          "city": "San Antonio",
+          "street": "Hunters Creek Dr"
+        }
+      },
+      "products": [
+        {
+          "id": "6",
+          "title": "Solid Gold Petite Micropave",
+          "price": 168,
+          "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days. Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+          "category": 2,
+          "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+          "userQuantity": 2
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "29100438",
+      "OrderDate": "2024-10-29 10:04:38",
+      "Amount": 503520,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A29100438",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "1",
+        "name": {
+          "firstname": "john",
+          "lastname": "doe"
+        },
+        "email": "john@gmail.com",
+        "phone": "1-570-236-7033",
+        "address": {
+          "city": "kilcoole",
+          "street": "new road"
+        }
+      },
+      "products": [
+        {
+          "id": "7",
+          "title": "White Gold Plated Princess",
+          "price": 9.99,
+          "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+          "category": 2,
+          "image": "71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "quantity": 30,
+          "userQuantity": 2
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "29100517",
+      "OrderDate": "2024-10-29 10:05:17",
+      "Amount": 503520,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A29100517",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "1",
+        "name": {
+          "firstname": "john",
+          "lastname": "doe"
+        },
+        "email": "john@gmail.com",
+        "phone": "1-570-236-7033",
+        "address": {
+          "city": "kilcoole",
+          "street": "new road"
+        }
+      },
+      "products": [
+        {
+          "id": "7",
+          "title": "White Gold Plated Princess",
+          "price": 9.99,
+          "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+          "category": 2,
+          "image": "71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "userQuantity": 2
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "04084737",
+      "OrderDate": "2024-11-04 08:47:37",
+      "Amount": 535200,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A04084737",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "1",
+        "name": {
+          "firstname": "john",
+          "lastname": "doe"
+        },
+        "email": "john@gmail.com",
+        "phone": "1-570-236-7033",
+        "address": {
+          "city": "kilcoole",
+          "street": "new road"
+        }
+      },
+      "products": [
+        {
+          "id": "2",
+          "title": "Mens Casual Premium Slim Fit T-Shirts",
+          "price": 22.3,
+          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+          "category": 3,
+          "image": "71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+          "quantity": 30,
+          "userQuantity": 1
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "05102105",
+      "OrderDate": "2024-11-05 10:21:05",
+      "Amount": 2638800,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A05102105",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "2",
+        "name": {
+          "firstname": "david",
+          "lastname": "morrison"
+        },
+        "email": "morrison@gmail.com",
+        "phone": "1-570-236-7033",
+        "address": {
+          "city": "kilcoole",
+          "street": "Lovers Ln"
+        }
+      },
+      "products": [
+        {
+          "id": "1",
+          "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+          "price": 109.95,
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+          "category": 3,
+          "image": "81fPKd-2AYL._AC_SL1500_.jpg",
+          "quantity": 30,
+          "userQuantity": 1
+        }
+      ],
+      "status": true
+    },
+    {
+      "id": "05133608",
+      "OrderDate": "2024-11-05 13:36:08",
+      "Amount": 2638800,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A05133608",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "8369",
+        "name": {
+          "firstname": "Vuong",
+          "lastname": "Nam"
+        },
+        "email": "Namvvhe172838@fpt.edu.vn",
+        "phone": "0123456789",
+        "address": {
+          "city": "Hanoi",
+          "street": "Khuat Duy Tien"
+        }
+      },
+      "products": [
+        {
+          "id": "1",
+          "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+          "price": 109.95,
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+          "category": 3,
+          "image": "81fPKd-2AYL._AC_SL1500_.jpg",
+          "quantity": 30,
+          "userQuantity": 1
+        }
+      ],
+      "status": false
+    },
+    {
+      "id": "05155239",
+      "OrderDate": "2024-11-05 15:52:39",
+      "Amount": 5277600,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A05155239",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "8369",
+        "name": {
+          "firstname": "Vuong",
+          "lastname": "Nam"
+        },
+        "email": "Namvvhe172838@fpt.edu.vn",
+        "phone": "0123456789",
+        "address": {
+          "city": "Hanoi",
+          "street": "Khuat Duy Tien"
+        }
+      },
+      "products": [
+        {
+          "id": "1",
+          "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+          "price": 109.95,
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+          "category": 3,
+          "image": "81fPKd-2AYL._AC_SL1500_.jpg",
+          "quantity": 30,
+          "userQuantity": 2
+        }
+      ],
+      "status": false
+    },
+    {
+      "id": "08083911",
+      "OrderDate": "2024-11-08 08:39:11",
+      "Amount": 2638800,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A08083911",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "8369",
+        "name": {
+          "firstname": "Vuong",
+          "lastname": "Nam"
+        },
+        "email": "Namvvhe172838@fpt.edu.vn",
+        "phone": "0123456789",
+        "address": {
+          "city": "Hanoi",
+          "street": "Khuat Duy Tien"
+        }
+      },
+      "products": [
+        {
+          "id": "1",
+          "title": "Nike React Infinity Run Flyknit",
+          "price": 109.95,
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+          "category": 1,
+          "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-665455a5-45de-40fb-945f-c1852b82400d/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+          "quantity": 30,
+          "userQuantity": 1
+        }
+      ],
+      "status": false
+    },
+    {
+      "id": "08131141",
+      "OrderDate": "2024-11-08 13:11:41",
+      "Amount": 2616000,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A08131141",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "8369",
+        "name": {
+          "firstname": "Vuong",
+          "lastname": "Nam"
+        },
+        "email": "Namvvhe172838@fpt.edu.vn",
+        "phone": "0123456789",
+        "address": {
+          "city": "Hanoi",
+          "street": "Khuat Duy Tien"
+        }
+      },
+      "products": [
+        {
+          "id": "11",
+          "title": "Nike Air Max 90",
+          "price": 109,
+          "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+          "category": 3,
+          "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8439f823-86cf-4086-81d2-4f9ff9a66866/air-max-90-big-kids-shoe-1wzwJM.jpg",
+          "quantity": 30,
+          "userQuantity": 1
+        }
+      ],
+      "status": false
+    },
+    {
+      "id": "08133144",
+      "OrderDate": "2024-11-08 13:31:44",
+      "Amount": 2638800,
+      "OrderInfo": "Thanh+toan+cho+ma+GD%3A08133144",
+      "bankCode": "ncb",
+      "customer": {
+        "id": "8369",
+        "name": {
+          "firstname": "Vuong",
+          "lastname": "Nam"
+        },
+        "email": "Namvvhe172838@fpt.edu.vn",
+        "phone": "0123456789",
+        "address": {
+          "city": "Hanoi",
+          "street": "Khuat Duy Tien"
+        }
+      },
+      "products": [
+        {
+          "id": "1",
+          "title": "Nike React Infinity Run Flyknit",
+          "price": 109.95,
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+          "category": 1,
+          "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/i1-665455a5-45de-40fb-945f-c1852b82400d/react-infinity-run-flyknit-mens-running-shoe-zX42Nc.jpg",
+          "quantity": 30,
+          "userQuantity": 1
+        }
+      ],
+      "status": false
+    }
+  ],
+  "blog": [
+    {
+      "id": "1721288038541",
+      "title": "The old life",
+      "data": "<p>That is the last life</p>",
+      "brief": "Huhuhaha",
+      "image": "about.png",
+      "dateCreate": "2024-11-05T06:17:03.994Z",
+      "status": true
+    },
+    {
+      "id": "1721289791774",
+      "title": "Head phone",
+      "data": "<p>hehehhheheh</p>",
+      "brief": "why this is vabasbd",
+      "image": "become-fashion-blogger-840x430.jpg",
+      "dateCreate": "2024-11-05T06:15:27.923Z",
+      "status": true
+    },
+    {
+      "id": "1721290844691",
+      "title": "test",
+      "data": "<p>new content</p><p><br></p>",
+      "brief": "test",
+      "image": "blog-6.jpg",
+      "dateCreate": "2024-11-05T06:08:11.689Z",
+      "status": true
+    },
+    {
+      "id": "1721293770076",
+      "title": "tessss1",
+      "data": "<p><img src=\"https://cdn.shopify.com/s/files/1/0070/7032/files/floof-cake.jpg?v=1713368617\" alt=\"A slice of Floof rainbow cotton candy cake\" height=\"{'100px'}\"></p><p><strong>Getting my big break:</strong></p><p><span style=\"background-color: var(--bs-body-bg);\">I w</span>as sick of explaining how to care for your cake, so I put together this little instructional video.</p><p>The video wasn’t meant for everyone—it was meant for the people who ordered a cake. So it was a huge surprise when it went&nbsp;<a href=\"https://www.shopify.com/blog/how-to-go-viral-on-tiktok\" rel=\"noopener noreferrer\" target=\"_blank\">viral on TikTok</a>. The amount of comments and emails from people wanting one was insane.</p><p>At this point, I was experimenting with&nbsp;<a href=\"https://www.shopify.com/blog/shipping-and-fulfillment\" rel=\"noopener noreferrer\" target=\"_blank\">shipping</a>, but most of it was just local. I didn’t have a shipping setup on my store yet—it was all through email. It was madness. I felt so overwhelmed and so excited all at the same time.&nbsp;</p><p>It was crazy, but I couldn’t stop. I knew that this was my time and that trends can burn out. And it was hot right now and I didn’t want to lose that opportunity.</p><p><strong>Biggest celeb encounter:</strong></p><p>It was midnight and I got an email. It was from Charlize Theron’s house manager. She said, “Her son saw your cakes on TikTok and just loves them. He has a food allergy, so this is absolutely perfect for him. We know that you’re sold out, but I’m really wondering if we can make this work, if you could send us a cake.”</p><p>And it hit me so hard that I had built a business where people really wanted this and it was sold out. I remember sitting on a stoop and crying and finally, for maybe the first time, feeling like I was so proud of myself.</p><p>The most challenging part of becoming an entrepreneur:</p><p>With the business side of things, it was completely overwhelming. I had never taken any sort of business classes. It was not my thing and not my strength. And I think that is exactly what stops people from starting their business.</p><p>Now that I had this product and people wanted it, it came along with so much other boring stuff. I had done the fun part and now I had to deal with the numbers.</p><p>In the beginning, my list was so insanely long. There was just no way of getting through it every day. You’re raising babies and trying to just get through, make product, and somehow you’re supposed to call the state tax franchise board for your seller’s permit number.</p><p>My favorite part of running my business:</p><p>I love my cotton candy cart. It’s not my main source of income, but I love having it because events are where I started and I find so much joy being out in the&nbsp;<a href=\"https://www.shopify.com/blog/building-community\" rel=\"noopener noreferrer\" target=\"_blank\">community</a>, being at weddings, and meeting people. Being around people gives me energy. It’s just magical.</p>",
+      "brief": "231231231231",
+      "image": "blog-4.jpg",
+      "dateCreate": "2024-11-05T06:15:41.954Z",
+      "status": true
+    }
+  ]
+}
